@@ -1,3 +1,4 @@
 venv/
+env/
 opt_project/opt_project/__pycache__
 opt_project/opt_project_app/__pycache__
